@@ -3,8 +3,9 @@ import datetime
 
 today = str(datetime.datetime.now()).split(' ')[0]
 
-sites = {'Zillow': 'http://zillow.com/',
-         'Belmont':'http://www.belmont.edu/'}
+sites = {'Bestbuy': 'https://bestbuy.com/',
+         'Gamestop':'http://www.gamestop.com/browse/playstation-4/games?nav=28-xu0,131dc-ffff2418',
+         'Amazon' : 'https://www.amazon.com'}
 
 for name, link in sites.items():
     response = requests.get(link)
