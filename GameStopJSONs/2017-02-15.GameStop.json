@@ -1,0 +1,86 @@
+[
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "The Sims 4",
+    "Price": "$39.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Nioh",
+    "Price": "$59.99",
+    "Publisher": "by Sony Computer Entertainment"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "Overwatch",
+    "Price": "$40.00",
+    "Publisher": "by Blizzard Entertainment"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Nioh Digital Deluxe Edition",
+    "Price": "$79.99",
+    "Publisher": "by Sony Computer Entertainment"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "For Honor",
+    "Price": "$59.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Resident Evil 7 biohazard",
+    "Price": "$59.99",
+    "Publisher": "by Capcom"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "For Honor Gold Edition",
+    "Price": "$99.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Halo Wars 2 Ultimate Edition",
+    "Price": "$79.99",
+    "Publisher": "by Microsoft Game Studios"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Resident Evil 7 biohazard",
+    "Price": "$59.99",
+    "Publisher": "by Capcom"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Minecraft Xbox One Edition",
+    "Price": "$19.99",
+    "Publisher": "by Microsoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC, Xbox One",
+    "Game Title": "Forza Horizon 3",
+    "Price": null,
+    "Publisher": "by Microsoft Game Studios"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "For Honor Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by UbiSoft"
+  }
+]

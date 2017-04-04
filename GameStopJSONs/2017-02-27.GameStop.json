@@ -1,0 +1,38 @@
+[
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "The Legend of Zelda: Breath of the Wild (Nintendo Switch)",
+    "Price": "$59.99"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Horizon Zero Dawn",
+    "Price": "$59.99"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo Wii U",
+    "Game Title": "The Legend of Zelda: Breath of the Wild",
+    "Price": "$59.99"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands",
+    "Price": "$59.99"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": null,
+    "Game Title": "Sonic Mania Collector's Edition (Nintendo Switch)",
+    "Price": "$69.99"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands",
+    "Price": "$59.99"
+  }
+]

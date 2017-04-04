@@ -1,0 +1,79 @@
+[
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Digimon Story Cyber Sleuth",
+    "Price": "$19.99",
+    "Publisher": "by Bandai Namco Entertainment America Inc."
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo Wii U",
+    "Game Title": "The Legend of Zelda: Breath of the Wild",
+    "Price": "$59.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Horizon Zero Dawn",
+    "Price": "$59.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Sword Art Online: Lost Song",
+    "Price": "$19.99",
+    "Publisher": "by Bandai Namco Entertainment America Inc."
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Borderlands: The Handsome Collection",
+    "Price": null,
+    "Publisher": "by 2K"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Halo Wars 2 Ultimate Edition",
+    "Price": "$79.99",
+    "Publisher": "by Microsoft Game Studios"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "MLB The Show 17 Hall of Fame Edition - Only at GameStop",
+    "Price": "$99.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Crash Bandicoot N. Sane Trilogy",
+    "Price": "$39.99",
+    "Publisher": "by Activision"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Horizon Zero Dawn Collector's Edition",
+    "Price": "$119.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Mass Effect Andromeda Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Mass Effect Andromeda Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Electronic Arts"
+  }
+]

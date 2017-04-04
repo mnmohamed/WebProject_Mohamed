@@ -1,0 +1,422 @@
+[
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "The Legend of Zelda Breath of Wild Special Edition",
+    "Price": "$99.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "The Legend of Zelda Breath of Wild Masters Edition",
+    "Price": "$129.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo Wii U",
+    "Game Title": "The Legend of Zelda: Breath of the Wild",
+    "Price": "$59.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "MLB The Show 17 Hall of Fame Edition - Only at GameStop",
+    "Price": "$99.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "MLB The Show 17 MVP Edition",
+    "Price": "$69.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Mass Effect Andromeda Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "The Legend of Zelda: Breath of the Wild (Nintendo Switch)",
+    "Price": "$59.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "MLB The Show 17",
+    "Price": "$59.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Mass Effect Andromeda Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PC",
+    "Game Title": "Battlefield 4",
+    "Price": "$2.97",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands",
+    "Price": "$59.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands",
+    "Price": "$59.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Mass Effect Andromeda",
+    "Price": "$59.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "The Binding of Isaac: Afterbirth + (Nintendo Switch)",
+    "Price": "$39.99",
+    "Publisher": "by Nicalis, Inc."
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Kingdom Hearts 1.5 + 2.5 Remix",
+    "Price": "$49.99",
+    "Publisher": "by Square Enix"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PC",
+    "Game Title": "Watch Dogs",
+    "Price": null,
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Mass Effect Andromeda",
+    "Price": "$59.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Final Fantasy XII: The Zodiac Age Limited Steelbook Edition",
+    "Price": null,
+    "Publisher": "by Square Enix"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "Sonic Mania Collector's Edition (Nintendo Switch)",
+    "Price": "$69.99",
+    "Publisher": "by Sega of America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Middle-earth: Shadow of War Mithril Edition - Only at GameStop",
+    "Price": "$299.99",
+    "Publisher": "by Warner Home Video Games"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Nintendo Wii U",
+    "Game Title": "The Legend of Zelda: Breath of the Wild",
+    "Price": "$59.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Nintendo",
+    "Game Title": "Snipperclips (Nintendo Switch)",
+    "Price": "$19.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Nintendo",
+    "Game Title": "Fast RMX",
+    "Price": "$19.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "Overwatch",
+    "Price": "$40.00",
+    "Publisher": "by Blizzard Entertainment"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Crash Bandicoot N. Sane Trilogy",
+    "Price": "$39.99",
+    "Publisher": "by Activision"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Rock Band Rivals Band Kit",
+    "Price": null,
+    "Publisher": "by PDP"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Persona 5",
+    "Price": "$59.99",
+    "Publisher": "by Atlus"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "Has-Been Heroes (Nintendo Switch)",
+    "Price": "$19.99",
+    "Publisher": "by GameTrust"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Ultimate Marvel vs Capcom 3 - Only at GameStop",
+    "Price": "$29.99",
+    "Publisher": "by Capcom"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "Super Mario Odyssey (Nintendo Switch)",
+    "Price": "$59.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Horizon Zero Dawn",
+    "Price": "$59.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Nintendo",
+    "Game Title": "Shovel Knight: Treasure Trove",
+    "Price": "$24.99",
+    "Publisher": "by Yacht Club Games"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands Gold Edition",
+    "Price": "$99.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "Luigi's Mansion",
+    "Price": "$29.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "Super Mario Sunshine",
+    "Price": "$34.99",
+    "Publisher": "by Nintendo of America"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "The Legend of Zelda: The Wind Waker",
+    "Price": "$19.99",
+    "Publisher": "by Nintendo of America"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Resident Evil 7 biohazard",
+    "Price": null,
+    "Publisher": "by Capcom"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Injustice 2 Ultimate Edition",
+    "Price": "$99.99",
+    "Publisher": "by Warner Home Video Games"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Mass Effect Andromeda Pathfinder Collector's Edition - Only at GameStop",
+    "Price": null,
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Resident Evil 7 biohazard",
+    "Price": null,
+    "Publisher": "by Capcom"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Middle-earth: Shadow of War Mithril Edition - Only at GameStop",
+    "Price": "$299.99",
+    "Publisher": "by Warner Home Video Games"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Horizon Zero Dawn",
+    "Price": "$59.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Mass Effect Andromeda Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Xbox 360",
+    "Game Title": "College Hoops 2K8",
+    "Price": "$14.99",
+    "Publisher": "by Take 2 Interactive"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "Animal Crossing",
+    "Price": "$14.99",
+    "Publisher": "by Nintendo of America"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "Metroid Prime",
+    "Price": "$9.99",
+    "Publisher": "by Nintendo of America"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Nintendo, Vintage Software",
+    "Game Title": "Super Mario Bros. 3",
+    "Price": "$17.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Nintendo",
+    "Game Title": "Splatoon 2 (Nintendo Switch)",
+    "Price": "$59.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "PlayStation 4",
+    "Game Title": "Mass Effect Andromeda Pathfinder Collector's Edition - Only at GameStop",
+    "Price": null,
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "NEW",
+    "Game System": "Xbox One",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands",
+    "Price": "$59.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "Xbox One",
+    "Game Title": "Mass Effect Andromeda Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Electronic Arts"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Horizon Zero Dawn Digital Deluxe Edition",
+    "Price": "$69.99",
+    "Publisher": "by Sony Computer Entertainment America"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PlayStation 4",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands Gold Edition",
+    "Price": "$99.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "DOWNLOAD",
+    "Game System": "PC",
+    "Game Title": "Tom Clancy's Ghost Recon Wildlands",
+    "Price": "$59.99",
+    "Publisher": "by UbiSoft"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "PlayStation 4",
+    "Game Title": "UNCHARTED 4: A Thief's End",
+    "Price": null,
+    "Publisher": "by Sony Computer Entertainment"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "The Legend of Zelda: Collector's Edition",
+    "Price": "$39.99",
+    "Publisher": "by Nintendo of America"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Game Cube, Vintage Software",
+    "Game Title": "Sonic Adventure 2: Battle",
+    "Price": "$14.99",
+    "Publisher": "by Sega"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Nintendo 64, Vintage Software",
+    "Game Title": "Mario Kart 64",
+    "Price": "$54.99",
+    "Publisher": "by Nintendo"
+  },
+  {
+    "Condition": "PRE-OWNED",
+    "Game System": "Xbox 360",
+    "Game Title": "NCAA Basketball 2010",
+    "Price": "$39.99",
+    "Publisher": "by Electronic Arts"
+  }
+]
