@@ -10,7 +10,7 @@ response = []
 
 url = 'http://www.gamestop.com/browse/games?nav=28-xu0,13ffff2418'
 i = 0
-while i < 6:
+while i < 100:
     browser = webdriver.Chrome()
     urlGameStop = url
     pageGameStop = browser.get(urlGameStop)
@@ -26,7 +26,7 @@ while i < 6:
     for position in soupGameStop.find_all('div', class_='product new_product dyother dyMonitor'):
         gameTitle = position.find('a', class_='ats-product-title-lnk').string
         console = gameTitle.find_next('strong').string
-        if(console.find_next('p')):
+        if(console and console.find_next('p')):
             publisher = console.find_next('p').string
         else:
             publisher = 'not included'
